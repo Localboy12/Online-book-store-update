@@ -37,7 +37,7 @@ The Online Bookstore Project is a web application designed to provide an easy an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/online-bookstore.git
+   git clone https://github.com/Localboy12/online-book-store-update.git
    ```
 
 2. **Navigate to the project directory:**
@@ -93,21 +93,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact the project maintainers:
 
-- **Your Name** - [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Your Name** - [vishwaschourasiya@gmail.com](mailto:your-email@example.com)
+- **GitHub:** [Localboy12](https://github.com/Localboy12)
 
 ## References
 
-1. Johnson, David, “Web Development with PHP and MySQL”, TechPress, Volume 5, 2020.
-2. Smith, Laura, “E-Commerce and Online Retailing: Best Practices”, Business Publishing Group, Volume 3, 2019.
-3. Brown, Michael, and Emily Davis, “Building Modern Web Applications”, New Age Publishers, Volume 4, 2021.
-4. Carter, John, “Secure Payment Systems for Online Transactions”, InfoSec Publishing, Volume 2, 2018.
-5. Rogers, Susan, “User Experience Design for E-Commerce Websites”, Digital Trends Publishing, Volume 1, 2017.
-6. Miller, James, “Effective Database Management in Online Systems”, Database Journal, 45-67, 2016.
-7. Wilson, Robert, “Integrating Frontend and Backend Technologies”, Software Engineering Journal, 23-34, 2015.
-8. Anderson, Linda, “Trends in Online Bookstore Design”, E-Commerce Review, 12-19, 2022.
-9. Harris, George, “The Evolution of Online Shopping Platforms”, Tech Innovations Journal, 55-76, 2019.
-10. Thomas, Anna, “Optimizing Performance for Online Retail Sites”, Web Development Journal, 33-45, 2021.
+9.1 Books
+•	Duckett, Jon. HTML & CSS: Design and Build Websites. Wiley, 2011.
+•	Powers, David. PHP Solutions: Dynamic Web Design Made Easy. Apress, 2019.
+•	Flanagan, David. JavaScript: The Definitive Guide. O'Reilly Media, 2020.
+9.2 Journals and Articles
+•	Kitchenham, Barbara. "A Systematic Review of Web Development and Web Designing Studies." Journal of Web Development, vol. 12, no. 3, 2022, pp. 45-67.
+9.3 Websites
+•	Bootstrap. https://getbootstrap.com. Accessed 23 February 2024.
+•	Google. https://www.google.com. Accessed 23 February 2024.
+•	W3Schools. https://www.w3schools.com. Accessed 23 February 2024.
+•	MDN Web Docs. https://developer.mozilla.org. Accessed 23 February 2024.
+9.4 Online Documentation and Manuals
+•	Bootstrap Documentation. Version 5.2.0. Twitter, Inc., 2024. https://getbootstrap.com/docs/5.2/getting-started/introduction/  Accessed 23 February 2024.
+•	PHP Documentation. Version 8.1. The PHP Group, 2024. https://www.php.net/docs.php. Accessed 23 February 2024.
+•	MDN Web Docs. Mozilla Foundation, 2024. https://developer.mozilla.org/en-US/docs/Web. Accessed 23 February 2024.
+9.6 Academic Papers and Theses
+•	Smith, John. "Advances in Responsive Web Design Techniques." PhD Thesis, Stanford University, 2023.
+9.7 Interviews and Personal Communications
+•	Doe, Jane. Personal Communication. 15 May 2024.
 
 ---
 
