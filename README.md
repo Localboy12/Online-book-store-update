@@ -10,7 +10,6 @@
 6. [Contributing](#contributing)
 7. [License](#license)
 8. [Contact](#contact)
-9. [References](#references)
 
 ## Introduction
 
@@ -95,28 +94,6 @@ If you have any questions or suggestions, feel free to contact the project maint
 
 - **Your Name** - [vishwaschourasiya@gmail.com](mailto:your-email@example.com)
 - **GitHub:** [Localboy12](https://github.com/Localboy12)
-
-## References
-
-9.1 Books
-•	Duckett, Jon. HTML & CSS: Design and Build Websites. Wiley, 2011.
-•	Powers, David. PHP Solutions: Dynamic Web Design Made Easy. Apress, 2019.
-•	Flanagan, David. JavaScript: The Definitive Guide. O'Reilly Media, 2020.
-9.2 Journals and Articles
-•	Kitchenham, Barbara. "A Systematic Review of Web Development and Web Designing Studies." Journal of Web Development, vol. 12, no. 3, 2022, pp. 45-67.
-9.3 Websites
-•	Bootstrap. https://getbootstrap.com. Accessed 23 February 2024.
-•	Google. https://www.google.com. Accessed 23 February 2024.
-•	W3Schools. https://www.w3schools.com. Accessed 23 February 2024.
-•	MDN Web Docs. https://developer.mozilla.org. Accessed 23 February 2024.
-9.4 Online Documentation and Manuals
-•	Bootstrap Documentation. Version 5.2.0. Twitter, Inc., 2024. https://getbootstrap.com/docs/5.2/getting-started/introduction/  Accessed 23 February 2024.
-•	PHP Documentation. Version 8.1. The PHP Group, 2024. https://www.php.net/docs.php. Accessed 23 February 2024.
-•	MDN Web Docs. Mozilla Foundation, 2024. https://developer.mozilla.org/en-US/docs/Web. Accessed 23 February 2024.
-9.6 Academic Papers and Theses
-•	Smith, John. "Advances in Responsive Web Design Techniques." PhD Thesis, Stanford University, 2023.
-9.7 Interviews and Personal Communications
-•	Doe, Jane. Personal Communication. 15 May 2024.
 
 ---
 
